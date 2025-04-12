@@ -67,3 +67,4 @@ Security Considerations
 Important: This web application is intentionally insecure for educational purposes and should not be used in production environments. It is designed to demonstrate NoSQL injection vulnerabilities, and security best practices should always be followed in production code.
 
 
+![image](https://github.com/user-attachments/assets/9af3753b-b24c-4729-98da-a659c11522de)
